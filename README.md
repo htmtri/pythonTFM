@@ -19,6 +19,6 @@ PIV (only cross-ocorrelation algorithm avaiable; MQD algorithm unavaiable atm):
     - noise: to be done
     
 Solving for force: to be done (not soon)
-Result from PIV can readily be used with ANSYS to solve for traction force similar to matlab TFM. However, the purpose of this project is to make everything free, another approach is needed. (all finite element solving requires very heavy computation and optimization and thus most if not all finite element softwares' license cost a ton). Unfornately, solving Boussinesq solution to Green's function in Fourier space (FTTC) is also computationally intensive and hence the need to use C/C++ emerge. 
+Result from PIV can readily be used with ANSYS to solve for traction force similar to matlab TFM. However, the purpose of this project is to make everything free, another approach is needed. (all finite element solving requires very heavy computation and optimization and thus most if not all finite element softwares' license cost a ton). Unfornately, solving Boussinesq solution to Green's function in Fourier space (FTTC) is also computationally intensive and hence the need to use C/C++ emerges. 
 
 # Usage
