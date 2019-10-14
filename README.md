@@ -30,8 +30,8 @@ Result from PIV can readily be used with ANSYS to solve for traction force simil
  - Daniel Blair and Eric Dufresne for implementation of PT_IDL code with image filter in Matlab http://site.physics.georgetown.edu/matlab/
  - Jörg Döpfert, Flix.TECH. https://github.com/jdoepfert/roipoly.py
  - All authors and contributors of numpy, matplotlib, scipy, opencv, openpiv:
-  - https://numpy.org
-  - https://matplotlib.org
-  - https://www.scipy.org
-  - https://opencv.org
-  - www.openpiv.net
+   - https://numpy.org
+   - https://matplotlib.org
+   - https://www.scipy.org
+   - https://opencv.org
+   - www.openpiv.net
